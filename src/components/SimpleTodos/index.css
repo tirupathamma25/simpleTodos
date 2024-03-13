@@ -1,0 +1,22 @@
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.un-ordered-card {
+  background-color: #ffffff;
+  height: 90vh;
+  width: 90vh;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}

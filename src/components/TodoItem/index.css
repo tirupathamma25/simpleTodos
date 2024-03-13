@@ -1,0 +1,19 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.title {
+  color: #000000;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.button {
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  font-size: 15px;
+  border-radius: 4px;
+}
